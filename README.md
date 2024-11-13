@@ -17,3 +17,5 @@ get_joke()
 File "main.py", line 33, in get_joke
 joke json_data["joke"]
 KeyError: 'joke']
+######################### Link #######################
+https://stackoverflow.com/questions/68615138/discord-making-a-joke-bot
